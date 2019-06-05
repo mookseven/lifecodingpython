@@ -1,0 +1,7 @@
+print("hello everyone")
+print("yahoo")
+print("3rd test hello")
+print(10+5)
+print(10-5)
+print(10*5)
+print(10/5)
