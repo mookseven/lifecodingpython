@@ -1,0 +1,7 @@
+puts("hello everyone")
+puts("yahoo")
+puts("3rd test hello")
+puts(10+5)
+puts(10-5)
+puts(10*5)
+puts(10/5)
